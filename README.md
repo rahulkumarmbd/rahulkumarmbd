@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate Full Stack web developer from Uttar Pradesh ,India</h3>
+<img   align="right"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="300" />
+
 
 - 🌱 I’m currently learning **React and Redux**
 

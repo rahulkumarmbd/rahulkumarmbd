@@ -3,7 +3,11 @@
 <img   align="right"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="300" />
 
 
-- 🌱 I’m currently learning **React and Redux**
+
+
+
+
+- 🌱 I’m currently learning **AWS and JAVA**
 
 - 👯 I worked on [Forest Essentials Clone](https://forestessential.netlify.app/)
 
